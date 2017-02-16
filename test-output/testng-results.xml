@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[hiiiiiiiiiiiiiii]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116" started-at="2017-02-16T16:28:50Z" finished-at="2017-02-16T16:28:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116" started-at="2017-02-16T16:28:50Z" finished-at="2017-02-16T16:28:50Z">
+      <class name="qsp.MavenTest">
+        <test-method status="PASS" signature="testcreate()[pri:0, instance:qsp.MavenTest@66d2e7d9]" name="testcreate" duration-ms="36" started-at="2017-02-16T21:58:50Z" finished-at="2017-02-16T21:58:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[hiiiiiiiiiiiiiii]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcreate -->
+      </class> <!-- qsp.MavenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
